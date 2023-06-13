@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>SHS Building</title>
+</head>
+<body style="background-color:#145A32;">
+<img src="shs.jpg" alt="SHS building" width="300" length="200">
+<i><h3>This is SHS building its located in the back of the old shs buldimg this is where all shs student reside just one building  but all of th subject of shs is here. You can find the faculty of shs in the 2nd floor<i><h3>
+</body>
+</html>

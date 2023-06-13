@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>Parking</title>
+</head>
+<body style="background-color:#145A32;">
+<img src="parking.jpg" alt="parking" width="350" length="400">
+<i><h3>This where you can park your car there also parking for bike and motorcycle but i dont have a pic on that is not working.<i><h3>
+<body>
+<html>

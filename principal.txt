@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>Principal Office</title>
+<style>
+</style>
+<body style="background-color:#145A32;">
+<img src="principal.jpg" alt="Principal Office" width="350" length="400"></div>
+<b><h3>The Principal Office is located in the main building. Upon enetering the school premise, visitors can inquire at the guards in the entrance of the school to ask direction to where the Principal's Office. Its strategic location within the school ensures that it is easily accessible for all members of the school community, promoting effective communication and encouraging collaboration between the Principal and students, staff, and parents</h3></b>
+</body>
+</html>

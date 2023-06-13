@@ -1,0 +1,21 @@
+<htm>
+<head>
+<title>JHS Building</title>
+</head>
+<body style="background-color:#145A32;">
+<img src="main.jpg" alt="Main Building" width="350" length="400">
+<i><h3>This is the Main Building and this is where you can find the Principal Office, Conference Room, and Finance Office. You can find all this in the first floor of the main building, the main building is also the science building for JHS.<h3><i>
+<img src="phase1.jpg" alt="Phase1 Building" width="350" lenght="400">
+<i><h3>The Phase 1 building is where you can find the Records Office and guidance council in 1st floor of Phase 1 building. The 2nd floor of the building is for filipino subject while the 4th floor is for Math subject.<h3></i>
+<img src="phase2.jpg" alt="Phase2 Building" width="350" length="400">
+<i><h3>The Phase 2 Building is where you can find the canteen in the 1st floor the 2nd floor of the phase 2 building is also for filipino subject and the phase 1 and phase 2 building are connected by bridge in the 2nd floor, the 4th floor is for AP(Araling Panlipunan) Subject.</h3></i>
+<img src="new.jpg" alt="HE building" width="350" length="400">
+<i><h3>This is a new constructed buiding in the school and this Building is for HE(home economics> subject. There's also new canteen here but i don't have a picture of it.<h3><i>
+<img src="mapeh.jpg" alt="MAPEH Building"  width="350" length="400">
+<i><h3>The MAPEH Building is for physical activites and you can also join some o their event. You can find there faculty in the 1st floor.<i><h3>
+<img src="english.jpg" alt="English Building" width="350" legnth="400">
+<i><h3>The English Building now is a Old Shs building before you can find there faculty in the 2nd floor.<i></h3>
+<img src="tle.jpg" alt="TLE Building" width="400" length="400">
+<i><h3> This is the main building of tle(Technology and livehood education) subject you cn find there faculty in the 1st floor.<i></h3>
+</body>
+<html>

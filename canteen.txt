@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>Canteen</title>
+</head>
+<body style="background-color:#145A32;">
+<img src="canteen1.jpg" alt="canteen1" width="350" length="400">
+<i><h3><align="left-side">This where all student's take their lunch and buy lunch it has many foods and drinks so you can buy what you want this where some teacher buy their lunch too.<i><h3></align>
+
+</body>
+</html>

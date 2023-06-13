@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>Court</title>
+</head>
+<body style="background-color:#145A32;">
+<img src="court.jpg" alt="court" width="350" length="400">
+<i><h3>The court is in the middle of all the building and has long bench to sit, you can also play sports here if you don't have a ball you can just ask in the mapeh building but in exchange of getting a ball you need to give them your id. Or you just sit on the bench to kill some time and this is also where they announce some event or do events. This is also where we do flag ceremony.<h3><i>
+</body>
+</html>
